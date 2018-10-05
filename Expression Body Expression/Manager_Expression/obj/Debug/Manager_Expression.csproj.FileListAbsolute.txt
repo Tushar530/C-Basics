@@ -1,0 +1,6 @@
+D:\C#_Project\Expression Body Expression\Manager_Expression\bin\Debug\Manager_Expression.exe.config
+D:\C#_Project\Expression Body Expression\Manager_Expression\bin\Debug\Manager_Expression.exe
+D:\C#_Project\Expression Body Expression\Manager_Expression\bin\Debug\Manager_Expression.pdb
+D:\C#_Project\Expression Body Expression\Manager_Expression\obj\Debug\Manager_Expression.exe
+D:\C#_Project\Expression Body Expression\Manager_Expression\obj\Debug\Manager_Expression.pdb
+D:\C#_Project\Expression Body Expression\Manager_Expression\obj\Debug\Manager_Expression.csprojResolveAssemblyReference.cache
