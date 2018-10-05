@@ -1,0 +1,6 @@
+c:\users\tusoni\documents\visual studio 2015\Projects\jagged array\jagged array\bin\Debug\jagged array.exe.config
+c:\users\tusoni\documents\visual studio 2015\Projects\jagged array\jagged array\bin\Debug\jagged array.exe
+c:\users\tusoni\documents\visual studio 2015\Projects\jagged array\jagged array\bin\Debug\jagged array.pdb
+c:\users\tusoni\documents\visual studio 2015\Projects\jagged array\jagged array\obj\Debug\jagged array.csprojResolveAssemblyReference.cache
+c:\users\tusoni\documents\visual studio 2015\Projects\jagged array\jagged array\obj\Debug\jagged array.exe
+c:\users\tusoni\documents\visual studio 2015\Projects\jagged array\jagged array\obj\Debug\jagged array.pdb
