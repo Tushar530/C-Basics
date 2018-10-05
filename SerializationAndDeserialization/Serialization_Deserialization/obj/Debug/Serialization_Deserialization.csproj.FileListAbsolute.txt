@@ -1,0 +1,6 @@
+c:\users\tusoni\documents\visual studio 2015\Projects\SerializationAndDeserialization\Serialization_Deserialization\bin\Debug\Serialization_Deserialization.exe.config
+c:\users\tusoni\documents\visual studio 2015\Projects\SerializationAndDeserialization\Serialization_Deserialization\bin\Debug\Serialization_Deserialization.exe
+c:\users\tusoni\documents\visual studio 2015\Projects\SerializationAndDeserialization\Serialization_Deserialization\bin\Debug\Serialization_Deserialization.pdb
+c:\users\tusoni\documents\visual studio 2015\Projects\SerializationAndDeserialization\Serialization_Deserialization\obj\Debug\Serialization_Deserialization.csprojResolveAssemblyReference.cache
+c:\users\tusoni\documents\visual studio 2015\Projects\SerializationAndDeserialization\Serialization_Deserialization\obj\Debug\Serialization_Deserialization.exe
+c:\users\tusoni\documents\visual studio 2015\Projects\SerializationAndDeserialization\Serialization_Deserialization\obj\Debug\Serialization_Deserialization.pdb
