@@ -1,0 +1,8 @@
+c:\users\tusoni\documents\visual studio 2015\Projects\IEmployee\IEmployee\bin\Debug\IEmployee.exe.config
+c:\users\tusoni\documents\visual studio 2015\Projects\IEmployee\IEmployee\bin\Debug\IEmployee.exe
+c:\users\tusoni\documents\visual studio 2015\Projects\IEmployee\IEmployee\bin\Debug\IEmployee.pdb
+c:\users\tusoni\documents\visual studio 2015\Projects\IEmployee\IEmployee\bin\Debug\IEmplpoyee.pdb
+c:\users\tusoni\documents\visual studio 2015\Projects\IEmployee\IEmployee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+c:\users\tusoni\documents\visual studio 2015\Projects\IEmployee\IEmployee\obj\Debug\IEmployee.exe
+c:\users\tusoni\documents\visual studio 2015\Projects\IEmployee\IEmployee\obj\Debug\IEmployee.pdb
+c:\users\tusoni\documents\visual studio 2015\Projects\IEmployee\IEmployee\bin\Debug\IEmplpoyee.dll

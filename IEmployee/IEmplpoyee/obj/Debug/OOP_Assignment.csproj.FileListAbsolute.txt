@@ -1,0 +1,5 @@
+c:\users\tusoni\documents\visual studio 2015\Projects\IEmployee\IEmplpoyee\bin\Debug\IEmplpoyee.pdb
+c:\users\tusoni\documents\visual studio 2015\Projects\IEmployee\IEmplpoyee\obj\Debug\IEmplpoyee.pdb
+c:\users\tusoni\documents\visual studio 2015\Projects\IEmployee\IEmplpoyee\bin\Debug\IEmplpoyee.dll.config
+c:\users\tusoni\documents\visual studio 2015\Projects\IEmployee\IEmplpoyee\bin\Debug\IEmplpoyee.dll
+c:\users\tusoni\documents\visual studio 2015\Projects\IEmployee\IEmplpoyee\obj\Debug\IEmplpoyee.dll
