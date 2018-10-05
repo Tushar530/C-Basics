@@ -1,0 +1,6 @@
+c:\users\tusoni\documents\visual studio 2015\Projects\MultiArray\MultiArray\bin\Debug\MultiArray.exe.config
+c:\users\tusoni\documents\visual studio 2015\Projects\MultiArray\MultiArray\obj\Debug\MultiArray.csprojResolveAssemblyReference.cache
+c:\users\tusoni\documents\visual studio 2015\Projects\MultiArray\MultiArray\bin\Debug\MultiArray.exe
+c:\users\tusoni\documents\visual studio 2015\Projects\MultiArray\MultiArray\bin\Debug\MultiArray.pdb
+c:\users\tusoni\documents\visual studio 2015\Projects\MultiArray\MultiArray\obj\Debug\MultiArray.exe
+c:\users\tusoni\documents\visual studio 2015\Projects\MultiArray\MultiArray\obj\Debug\MultiArray.pdb
