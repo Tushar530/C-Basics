@@ -1,0 +1,15 @@
+D:\Sangeetha\3.Upgrade\C#6.0 Samples\CSharpNewFeatures\CSharpNewFeatures\obj\Debug\CSharpNewFeatures.csprojResolveAssemblyReference.cache
+D:\Sangeetha\3.Upgrade\C#6.0 Samples\CSharpNewFeatures\CSharpNewFeatures\bin\Debug\CSharpNewFeatures.exe.config
+D:\Sangeetha\3.Upgrade\C#6.0 Samples\CSharpNewFeatures\CSharpNewFeatures\bin\Debug\CSharpNewFeatures.exe
+D:\Sangeetha\3.Upgrade\C#6.0 Samples\CSharpNewFeatures\CSharpNewFeatures\bin\Debug\CSharpNewFeatures.pdb
+D:\Sangeetha\3.Upgrade\C#6.0 Samples\CSharpNewFeatures\CSharpNewFeatures\obj\Debug\CSharpNewFeatures.exe
+D:\Sangeetha\3.Upgrade\C#6.0 Samples\CSharpNewFeatures\CSharpNewFeatures\obj\Debug\CSharpNewFeatures.pdb
+D:\Sangeetha\3.Upgrade\M2 Revamping\C#6.0 Samples\CSharpNewFeatures\CSharpNewFeatures\obj\Debug\CSharpNewFeatures.csprojResolveAssemblyReference.cache
+D:\Sangeetha\3.Upgrade\M2 Revamping\C#6.0 Samples\CSharpNewFeatures\CSharpNewFeatures\obj\Debug\CSharpNewFeatures.exe
+D:\Sangeetha\3.Upgrade\M2 Revamping\C#6.0 Samples\CSharpNewFeatures\CSharpNewFeatures\obj\Debug\CSharpNewFeatures.pdb
+D:\.net all\M2\New Documents_27Aug2018\CSharpNewFeatures\CSharpNewFeatures\bin\Debug\CSharpNewFeatures.exe.config
+D:\.net all\M2\New Documents_27Aug2018\CSharpNewFeatures\CSharpNewFeatures\obj\Debug\CSharpNewFeatures.exe
+D:\.net all\M2\New Documents_27Aug2018\CSharpNewFeatures\CSharpNewFeatures\obj\Debug\CSharpNewFeatures.pdb
+D:\CSharpNewFeatures\CSharpNewFeatures\bin\Debug\CSharpNewFeatures.exe.config
+D:\CSharpNewFeatures\CSharpNewFeatures\obj\Debug\CSharpNewFeatures.exe
+D:\CSharpNewFeatures\CSharpNewFeatures\obj\Debug\CSharpNewFeatures.pdb
