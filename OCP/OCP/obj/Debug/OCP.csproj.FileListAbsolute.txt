@@ -1,0 +1,13 @@
+c:\users\tusoni\documents\visual studio 2015\Projects\OCP\OCP\bin\Debug\OCP.exe.config
+c:\users\tusoni\documents\visual studio 2015\Projects\OCP\OCP\obj\Debug\OCP.csprojResolveAssemblyReference.cache
+c:\users\tusoni\documents\visual studio 2015\Projects\OCP\OCP\bin\Debug\OCP.exe
+c:\users\tusoni\documents\visual studio 2015\Projects\OCP\OCP\bin\Debug\OCP.pdb
+c:\users\tusoni\documents\visual studio 2015\Projects\OCP\OCP\bin\Debug\Contract.dll
+c:\users\tusoni\documents\visual studio 2015\Projects\OCP\OCP\bin\Debug\Permanent.dll
+c:\users\tusoni\documents\visual studio 2015\Projects\OCP\OCP\bin\Debug\Contract.pdb
+c:\users\tusoni\documents\visual studio 2015\Projects\OCP\OCP\bin\Debug\Permanent.pdb
+c:\users\tusoni\documents\visual studio 2015\Projects\OCP\OCP\obj\Debug\OCP.exe
+c:\users\tusoni\documents\visual studio 2015\Projects\OCP\OCP\obj\Debug\OCP.pdb
+D:\M1\OCP\OCP\bin\Debug\OCP.exe.config
+D:\M1\OCP\OCP\obj\Debug\OCP.exe
+D:\M1\OCP\OCP\obj\Debug\OCP.pdb

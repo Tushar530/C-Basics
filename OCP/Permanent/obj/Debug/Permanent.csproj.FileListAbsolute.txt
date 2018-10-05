@@ -1,0 +1,5 @@
+c:\Users\tusoni\documents\visual studio 2015\Projects\OCP\Permanent\obj\Debug\Permanent.csprojResolveAssemblyReference.cache
+c:\Users\tusoni\documents\visual studio 2015\Projects\OCP\Permanent\bin\Debug\Permanent.dll
+c:\Users\tusoni\documents\visual studio 2015\Projects\OCP\Permanent\bin\Debug\Permanent.pdb
+c:\Users\tusoni\documents\visual studio 2015\Projects\OCP\Permanent\obj\Debug\Permanent.dll
+c:\Users\tusoni\documents\visual studio 2015\Projects\OCP\Permanent\obj\Debug\Permanent.pdb

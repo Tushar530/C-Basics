@@ -1,0 +1,5 @@
+c:\Users\tusoni\documents\visual studio 2015\Projects\OCP\Contract\bin\Debug\Contract.dll
+c:\Users\tusoni\documents\visual studio 2015\Projects\OCP\Contract\bin\Debug\Contract.pdb
+c:\Users\tusoni\documents\visual studio 2015\Projects\OCP\Contract\obj\Debug\Contract.dll
+c:\Users\tusoni\documents\visual studio 2015\Projects\OCP\Contract\obj\Debug\Contract.pdb
+c:\Users\tusoni\documents\visual studio 2015\Projects\OCP\Contract\obj\Debug\Contract.csprojResolveAssemblyReference.cache
